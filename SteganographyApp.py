@@ -1,3 +1,5 @@
+#Jonas Schnakenberg Lab 9
+
 from PIL import Image
 import os
 
